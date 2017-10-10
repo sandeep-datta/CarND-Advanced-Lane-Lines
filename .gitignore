@@ -1,0 +1,5 @@
+untracked/
+.ipynb_checkpoints/
+.directory
+__pycache__/
+__temp__.mp4
